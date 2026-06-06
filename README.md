@@ -46,30 +46,34 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-<img width="1142" height="571" alt="Screenshot 2026-05-13 134442" src="https://github.com/user-attachments/assets/d5bf8bb5-cb68-4693-b753-f83d40050b74" />
- 
- <img width="828" height="791" alt="Screenshot 2026-05-29 115722" src="https://github.com/user-attachments/assets/77f70a7b-1233-4130-b803-081b62b063f7" />
+<img width="944" height="256" alt="Screenshot 2026-06-06 090608" src="https://github.com/user-attachments/assets/fbd0f22b-ca52-438a-bccf-27641c44cdcc" />
+
+<img width="948" height="502" alt="Screenshot 2026-06-06 090621" src="https://github.com/user-attachments/assets/96b1dbc5-fb9d-424d-802a-467b59e486b2" />
+
+<img width="939" height="387" alt="Screenshot 2026-06-06 090633" src="https://github.com/user-attachments/assets/14185ff9-a2f0-4901-adad-5a6836f7d12a" />
 
 
 
 b.  KCL:
- <img width="810" height="480" alt="Screenshot 2026-05-29 115738" src="https://github.com/user-attachments/assets/5420ed13-6cd7-4d09-9b05-8579628610f3" />
+ <img width="940" height="551" alt="Screenshot 2026-06-06 090648" src="https://github.com/user-attachments/assets/ad63066d-5675-46b5-a213-eea3bdc1d1e4" />
 
- <img width="722" height="747" alt="Screenshot 2026-05-29 115759" src="https://github.com/user-attachments/assets/6cdd841f-57d6-4d8f-a7dd-f25633c7d386" />
+<img width="937" height="520" alt="Screenshot 2026-06-06 090702" src="https://github.com/user-attachments/assets/2340289f-0df7-4bad-977e-0a6517bbd1d4" />
 
-
+<img width="940" height="424" alt="Screenshot 2026-06-06 090713" src="https://github.com/user-attachments/assets/dfbd244c-6b50-49cb-83d7-221f8fa2b6ed" />
 
 
 Calculation:
 
 a.   KVL:
  
-<img width="526" height="750" alt="Screenshot 2026-05-29 115815" src="https://github.com/user-attachments/assets/9937caa4-f9fd-46a5-a125-2ecffc091c31" />
-
+<img width="505" height="722" alt="Screenshot 2026-06-06 090734" src="https://github.com/user-attachments/assets/58fc104b-62cf-43d1-be60-4554c9c7839c" />
 
 b.  KCL:
 
-<img width="531" height="210" alt="Screenshot 2026-05-29 115826" src="https://github.com/user-attachments/assets/bda33bc0-b0ac-42bf-80e2-9b21d19803bc" />
+<img width="518" height="189" alt="Screenshot 2026-06-06 090741" src="https://github.com/user-attachments/assets/f83e45a8-c469-4869-9d46-f7b10de80bcb" />
+
+<img width="526" height="475" alt="Screenshot 2026-06-06 090750" src="https://github.com/user-attachments/assets/5db16ea2-b778-4545-b1e7-c6052f1dab6a" />
+
 
 
 RESULT:
